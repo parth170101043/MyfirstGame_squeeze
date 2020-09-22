@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SQUEEZE!</string>
+    <string name="content">Start Game</string>
+    <string name="itsover">Game Over</string>
+    <string name="again">Play Again</string>
+    <string name="volume">Volume</string>
+
+</resources>
